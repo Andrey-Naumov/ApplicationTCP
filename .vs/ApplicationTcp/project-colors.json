@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72efe593-dc43-4507-8d89-c7cb309e3937": {
+      "ProjectGuid": "72efe593-dc43-4507-8d89-c7cb309e3937",
+      "DisplayName": "ServerTcp",
+      "ColorIndex": 0
+    },
+    "b3450f44-f072-489c-a6d6-ac7e0720b5f3": {
+      "ProjectGuid": "b3450f44-f072-489c-a6d6-ac7e0720b5f3",
+      "DisplayName": "ClientTcp",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

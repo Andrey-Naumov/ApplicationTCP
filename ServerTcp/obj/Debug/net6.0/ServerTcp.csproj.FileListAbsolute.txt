@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\bin\Debug\net6.0\ServerTcp.exe
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\bin\Debug\net6.0\ServerTcp.deps.json
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\bin\Debug\net6.0\ServerTcp.runtimeconfig.json
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\bin\Debug\net6.0\ServerTcp.dll
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\bin\Debug\net6.0\ref\ServerTcp.dll
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\bin\Debug\net6.0\ServerTcp.pdb
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\obj\Debug\net6.0\ServerTcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\obj\Debug\net6.0\ServerTcp.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\obj\Debug\net6.0\ServerTcp.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\obj\Debug\net6.0\ServerTcp.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\obj\Debug\net6.0\ServerTcp.dll
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\obj\Debug\net6.0\ref\ServerTcp.dll
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\obj\Debug\net6.0\ServerTcp.pdb
+C:\Users\Andrey\source\repos\ApplicationTcp\ServerTcp\obj\Debug\net6.0\ServerTcp.genruntimeconfig.cache
